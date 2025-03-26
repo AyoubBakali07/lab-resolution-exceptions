@@ -7,6 +7,6 @@ use Illuminate\Http\Request;
 class WrongTestController extends Controller
 {
     public function index(){
-        return "Error fixed";
+        return "Erro fixed ";
     }
 }
